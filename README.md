@@ -1,12 +1,18 @@
 <h1 align="center">Hi 👋, I'm Yash Sawant</h1>
 <h3 align="center">A passionate App developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsawant-droid&label=Profile%20views&color=0e75b6&style=flat" alt="yashsawant-droid" /> </p>
+
 - 🔭 I’m currently working on [Investor](https://github.com/YashSawant-droid/Investor)
 
 - 👯 I’m looking to collaborate on [PICT-o-Sell](https://github.com/YashSawant-droid/PICT-o-Sell)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/yash-sawant-08b6872a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-sawant-08b6872a2" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sane_eagle_23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sane_eagle_23" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/themightywarrior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="themightywarrior" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rtaphbihob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rtaphbihob" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
